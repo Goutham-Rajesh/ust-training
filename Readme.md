@@ -6,8 +6,6 @@ Adding more data to the readme
 
 Practicing Git and Git Hub 
 
-<<<<<<< HEAD
-Exploring merge conflict
-=======
 Learning merge conflict
->>>>>>> feature
+
+Exploring tag and version control
